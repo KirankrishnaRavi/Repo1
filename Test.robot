@@ -17,3 +17,7 @@ Case 4
 Case 5
     Script developed for Test Environment.
     Scrpit committed and pushed
+
+Case 6
+    Scripted developed in Test Environment.
+    Script Committed and pushed in Test Branch
