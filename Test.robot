@@ -16,3 +16,6 @@ Case 5
 
 Case 6
     Casa 6 added
+
+Case 7
+    Case 7 is added from Functitonaliy A Branch
