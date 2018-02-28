@@ -21,3 +21,6 @@ Case 5
 Case 6
     Scripted developed in Test Environment.
     Script Committed and pushed in Test Branch
+
+Case 7
+    Case 7 created in Test Branch
