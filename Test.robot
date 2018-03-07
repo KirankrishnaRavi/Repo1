@@ -16,6 +16,7 @@ Case 5
 
 Case 6
     Casa 6 added
+    Changes did in Case 6
 
 Case 7
     Case 7 is added from Functitonaliy A Branch
