@@ -14,8 +14,11 @@ Case 3.1
 CAse 3.2
     This is case 3.2
 
+Case 3.4
+    This is case 3.4
+
 Case 4
-    This is case 4
+    This is case 4 Branch 1.
 
 Case 4.1
     This is case 4.1
