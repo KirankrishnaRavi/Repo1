@@ -8,6 +8,9 @@ Case2
 Case3
     This is case 3
 
+Case 3.1
+    This is case 3.2
+
 Case 4
     This is case 4
 
