@@ -11,23 +11,8 @@ Case 2.1
 Case3
     This is case 3.
 
-Case 3.05
-    This case 3.05
-
-Case 3.20
-    This is case 3.20
-
 Case4
     This is case 4.
-
-Case 4.05
-    This is case 4.05
-
-Case 4.1
-    This is test case 4.1
-
-Case 4.20
-    This is test case 4.20
 
 Case5
     This is case 5.
