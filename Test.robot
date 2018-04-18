@@ -11,6 +11,9 @@ Case3
 Case 3.1
     This is case 3.2
 
+CAse 3.2
+    This is case 3.2
+
 Case 4
     This is case 4
 
@@ -18,13 +21,4 @@ Case 4.1
     This is case 4.1
 
 Case 6
-    This is case 6. Branch B
-
-Case 7
-    This is case 7.
-
-Case 7.05
-    This sis case 7.05
-
-Case 8
-    This is case 8.
+    This is case 6 Branch 1.
