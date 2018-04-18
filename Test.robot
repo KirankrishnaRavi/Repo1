@@ -14,6 +14,9 @@ Case3
 Case 3.05
     This case 3.05
 
+Case 3.20
+    This is case 3.20
+
 Case4
     This is case 4.
 
@@ -24,7 +27,7 @@ Case 4.1
     This is test case 4.1
 
 Case5
-    This is case 5.
+    This is case 5 Test Branch
 
 Case6
     This is case 6.
