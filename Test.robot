@@ -19,3 +19,6 @@ Case 4.1
 
 Case 6
     This is case 6.
+
+Case 7
+    This is case 7.
